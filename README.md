@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shubham
-- 📫 How to reach me ... Shubhams@packt.com
+- 📫 How to reach me ... sharma.shubham763@gmail.com
 
 <!---
 shubham763/shubham763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
