@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+                                       
 </div>
 
 
@@ -11,17 +12,19 @@
     <img src="https://img.shields.io/badge/Website-Grey?style=for-the-badge&logo=Website&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=shubham763&style=flat-square&color=blue" alt=""/>
 
 ---
 
 ### :woman_technologist: About Me :
  <h1>
-  hey there, I'm Shubham Sharma!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  hey there, I'm Shubham Sharma! <img align="right" alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BkdDk1cXZ5cmJia3p6am5uMGllNzZzcmVqb2o1eTVpc2FxeGJiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UMyvk17PIo3SiZQWju/giphy.gif"width="250px">
 </h1>  
+<h3>
+  Obtained a Master's Degree in Information Technology Analytics from Rutgers Business School. Driven by a fervent enthusiasm for extracting insights through analytical methodologies and visualizations. 
+</h3>
 
-* 🚀 I'm a data analyst with a passion for exploring data and crafting compelling narratives from it
+* 🚀 I'm a data analyst with a passion for exploring data and crafting compelling narratives from it                       
 * 🌱 Passionate about exploring the realm of Data Analysis and sharing insights with the tech community
 * ⚡ Enthusiastic about staying abreast of the latest tech trends and articles, while also enjoying gaming during leisure time
 * 📫 How to reach me ... sharma.shubham763@gmail.com
