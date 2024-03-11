@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Website-Grey?style=for-the-badge&logo=Website&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ---
 
@@ -48,6 +49,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubham763&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham763&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![shubham763's Stats](https://github-readme-stats.vercel.app/api?username=shubham763&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
 <!---
 shubham763/shubham763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
