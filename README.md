@@ -25,7 +25,7 @@
   Obtained a Master's Degree in Information Technology Analytics from Rutgers Business School. Driven by a fervent enthusiasm for extracting insights through analytical methodologies and visualizations. 
 </h3>
 
-* 🚀 I'm a data analyst with a passion for exploring data and crafting compelling narratives from it                       
+* 🚀 I'm a Business Data Analyst with a passion for exploring data and crafting compelling narratives from it                       
 * 🌱 Passionate about exploring the realm of Data Analysis and sharing insights with the tech community
 * ⚡ Enthusiastic about staying abreast of the latest tech trends and articles, while also enjoying gaming during leisure time
 * 📫 How to reach me ... sharma.shubham763@gmail.com
